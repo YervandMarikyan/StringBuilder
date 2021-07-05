@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\bin\Debug\ConsoleApp_StringBuilder.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\bin\Debug\ConsoleApp_StringBuilder.exe
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\bin\Debug\ConsoleApp_StringBuilder.pdb
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\obj\Debug\ConsoleApp_StringBuilder.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\obj\Debug\ConsoleApp_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\obj\Debug\ConsoleApp_StringBuilder.exe
+C:\Users\ASUS\source\repos\ConsoleApp_StringBuilder\ConsoleApp_StringBuilder\obj\Debug\ConsoleApp_StringBuilder.pdb
